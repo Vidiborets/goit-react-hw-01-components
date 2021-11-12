@@ -1,0 +1,27 @@
+.transactionHistory {
+  text-align: center;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  overflow: hidden;
+  margin-bottom: 80px;
+  background-color: #fff;
+  border-radius: 4px;
+  box-shadow: 7px -7px 70px rgb(0 0 0 / 20%);
+  opacity: 0.9;
+  line-height: 1.33333;
+  color: #808184;
+}
+.headerTable {
+  border: 0 solid #b5b5b5;
+  background-color: #00bcd5;
+  color: #fff;
+  text-transform: uppercase;
+}
+.bodyTabel {
+  width: 100%;
+}
+.itemTabel {
+  padding: 20px 109px;
+}
